@@ -5,5 +5,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Analytics
-- 🌱 I’m currently learning PowerBI
+- 🌱 I’m currently learning MachineLearning
 - 📫 Visit my website: https://mefta.vercel.app
